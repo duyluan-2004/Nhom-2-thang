@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, this is Nhóm 2 thằng
 Tạo conflict
+=======
+Hello, this is Luan
+>>>>>>> fe6594d8b7c7569dd37c443416e0e52239d948b7
